@@ -1,0 +1,6 @@
+{
+  "name": "Wagtail Cottage",
+  "description": "Luxury Cottage Retreat in the Heart of the Lake District National Park, Hardingill, Cumbria.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
